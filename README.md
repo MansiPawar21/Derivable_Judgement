@@ -380,7 +380,7 @@ The notebook's final summary reports key descriptive measures, including the num
 The following structure organizes the notebook, dataset, theory notes, documentation, dependencies, and visualization images in one GitHub repository.
 
 ```text
-Derivable-Judgement/
+   Derivable-Judgement/
 │
 ├── Derivable_Judgement.ipynb
 ├── derivable_judgement_dataset.csv
