@@ -192,7 +192,7 @@ The following three visualizations illustrate patterns in the supplied charts.
 
 ### 1. Diabetes Prevalence by Smoking Status
 
-![Diabetes Prevalence by Smoking Status](images/fig1_diabetes_by_smoking.png)
+![Diabetes Prevalence by Smoking Status](PI1.png)
 
 **Chart type:** Bar chart
 
@@ -220,7 +220,7 @@ The Chi-square test provides a statistical assessment of the association between
 
 ### 2. BMI Distribution by Diabetes Status
 
-![BMI Distribution by Diabetes Status](images/fig3_bmi_distribution_by_diabetes.png)
+![BMI Distribution by Diabetes Status](PI2.png)
 
 **Chart type:** Box plot
 
@@ -254,7 +254,7 @@ Welch's t-test in the notebook evaluates whether the difference in their mean BM
 
 ### 3. Relationship Between Age and BMI
 
-![Relationship Between Age and BMI](images/fig5_age_bmi_scatter.png)
+![Relationship Between Age and BMI](PI3.png)
 
 **Chart type:** Scatter plot
 
