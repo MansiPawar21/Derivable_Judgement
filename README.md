@@ -1,4 +1,3 @@
-
 # Derivable Judgement — Statistical Analysis of Health Data
 
 A Python-based statistical analysis project that explores relationships between health indicators and lifestyle factors using statistical hypothesis testing, descriptive statistics, correlation analysis, and data visualization.
@@ -380,7 +379,7 @@ The notebook's final summary reports key descriptive measures, including the num
 The following structure organizes the notebook, dataset, theory notes, documentation, dependencies, and visualization images in one GitHub repository.
 
 ```text
-   Derivable-Judgement/
+ Derivable-Judgement/
 │
 ├── Derivable_Judgement.ipynb
 ├── derivable_judgement_dataset.csv
